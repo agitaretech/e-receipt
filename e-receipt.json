@@ -1,0 +1,160 @@
+{
+    "timestamp": "2016-01-11T20:35:00-08:00",
+    "total": 97.22,
+    "subtotal": 97.22,
+    "currency_code": "USD",
+    "original": "receipt_trader-joes.jpg",
+    "merchant": {
+        "name": "Trader Joe's",
+        "location": {
+            "address": "15932 Redmond Way",
+            "city": "Redmond",
+            "state_province": "WA",
+            "zip_postal_code": "98052"
+        },
+        "store_id": "140",
+        "phone": "(425) 883-1624",
+        "web_address": "www.traderjoes.com"
+    },
+    "items": [
+        {
+            "item": "CRACKERS CHEDDAR ROCKETS",
+            "price": 7.47,
+            "quantity": 3,
+            "units": "oz",
+            "price_per_unit": 2.49
+        },
+        {
+            "item": "SNACK SEAWEED STRIPS ROASTED",
+            "price": 4.95,
+            "quantity": 5,
+            "units": "oz",
+            "price_per_unit": 0.99
+        },
+        {
+            "item": "MEAT CHICKEN BREADED BREAST TE",
+            "price": 7.99
+        },
+        {
+            "item": "MEAT CHICKEN BREADED BREAST TE",
+            "price": 7.99
+        },
+        {
+            "item": "ICE CREAM VANILLA",
+            "price": 5.99
+            "quantity": 0.5,
+            "units": "gal",
+        },
+        {
+            "item": "ICE CREAM CHOCOLATE",
+            "price": 3.99
+            "quantity": 1,
+            "units": "quart",
+        },
+        {
+            "item": "BARS STRAWBERRY WALKS INTO A B",
+            "price": 1.99
+        },
+        {
+            "item": "BARS KIND PLUS CHOCOLATE CHERR",
+            "price": 1.49
+        },
+        {
+            "item": "BARS KIND PLUS CHOCOLATE CHERR",
+            "price": 1.49
+        },
+        {
+            "item": "BARS KIND PLUS CHOCOLATE CHERR",
+            "price": 1.49
+        },
+        {
+            "item": "BARS KIND PLUS CHOCOLATE CHERR",
+            "price": 1.49
+        },
+        {
+            "item": "BARS KIND PLUS CHOCOLATE CHERR",
+            "price": 1.49
+        },
+        {
+            "item": "MEAT BEEF ORG GROUND 85/15",
+            "price": 7.49
+        },
+        {
+            "item": "LENTILS GREEN SMALL WHOLE",
+            "price": 1.69
+        },
+        {
+            "item": "R-SALAD ORG BUTTER LETTUCE & R",
+            "price": 2.29
+        },
+        {
+            "item": "SALAMI SECCHI 2PK COLUMBUS",
+            "price": 7.49
+        },
+        {
+            "item": "SLICED HAM ROSEMARY",
+            "price": 3.29
+        },
+        {
+            "item": "SLICED HAM ROSEMARY",
+            "price": 3.29
+        },
+        {
+            "item": "SOURDOUGH CRUSHED WHEAT SLICED",
+            "price": 3.29
+        },
+        {
+            "item": "A-ONIONS SWEET ORGANIC",
+            "price": 2.49
+            "quantity": 2,
+            "units": "lbs",
+        },
+        {
+            "item": "R-GREEN ONIONS",
+            "price": 0.99
+            "quantity": 6,
+            "units": "oz",
+        },
+        {
+            "item": "R-SALAD ORG BUTTER LETTUCE & R",
+            "price": 2.29
+        },
+        {
+            "item": "BAGEL CINN RAISIN",
+            "price": 2.49
+        },
+        {
+            "item": "A-PEPPER BELL EACH XL ORANGE",
+            "price": 2.38,
+            "quantity": 2,
+            "units": "pcs",
+            "price_per_unit": 1.19
+        },
+        {
+            "item": "A-PEPPER BELL EACH XL RED",
+            "price": 3.96,
+            "quantity": 4,
+            "units": "pcs",
+            "price_per_unit": 0.99
+        },
+        {
+            "item": "FLATBREAD",
+            "price": 3.98,
+            "quantity": 2,
+            "units": "oz",
+            "price_per_unit": 1.99
+        },
+        {
+            "item": "FLOUR TORTILLAS",
+            "price": 1.99
+        }
+    ],
+    "payment_details": {
+        "payment_instrument": "AMEX",
+        "card_number": "XXXXXXXXXXX2008",
+        "entry_method": "chip",
+        "timestamp": "2016-11-01T20:34:59-08:00",
+        "authorization_id": "840928",
+        "transaction_result": "APPROVED"
+    },
+}
